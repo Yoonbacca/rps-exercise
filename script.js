@@ -48,12 +48,14 @@ function playRound(playerSelection, computerSelection) {
     } else {
         return "Invalid entry! Try again!";
     }
-
-
 }
 
-const playerSelection = getComputerChoice();
-const computerSelection = getComputerChoice();
-console.log(playerSelection);
-console.log(computerSelection);
-console.log(playRound(playerSelection, computerSelection));
+//Declare function game()
+//Create playerCount variable
+//Create computerCount variable
+//Create for loop that increments up to 5
+//Prompt user to enter their option
+//Call playRound
+//If player wins, add 1 to playerCount
+//If computer wins, add 1 to computerCount
+//Increment for loop one
